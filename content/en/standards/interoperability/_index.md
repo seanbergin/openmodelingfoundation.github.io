@@ -39,6 +39,8 @@ OMF Interoperability standards should have the effect of increasing productivity
 - Metadata and documentation related to interoperability
   - Clarity and precision in definitions of parameters and variables (ontology)
   - Data items to include in metadata: scale (space and time), typical run time, limits (e.g., range of calibration data)
+- A matching ontology that goes beyond computational limitations. This could be measurements or it may be on a conceptual level
+- There must be a clear description of the limitations of a model to prevent misapplication of the model
 
 ## Minimal Interoperability Standards
 
